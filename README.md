@@ -4,8 +4,9 @@
 1. Add task
 2. delete task
 3. edit task
+4. 
 *Design feature
- -> Responsive design for both mobile and laptop devices
+1.Responsive design for both mobile and laptop devices
 
 Simple CRUD operation
 Site Link: https://simple-todo-js-project.netlify.app/
